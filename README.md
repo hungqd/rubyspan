@@ -6,7 +6,7 @@ RubySpan is an attempt to display [ruby annotation](https://www.w3.org/TR/ruby/)
 
 ### Screenshots
 
-![Text with RubySpan](screenshots/1.png)
+<img src="./screenshots/1.png" width="540" alt="Text with RubySpan">
 
 ### Known Bugs
 
