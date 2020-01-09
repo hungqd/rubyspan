@@ -20,7 +20,7 @@ package io.github.mljli.rubyspan;
 import android.graphics.Paint;
 import android.graphics.Canvas;
 import android.graphics.Rect;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import android.text.Spanned;
 import android.text.style.ReplacementSpan;
 
